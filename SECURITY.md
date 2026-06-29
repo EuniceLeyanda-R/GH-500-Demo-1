@@ -23,3 +23,4 @@ This information will help us triage your report more quickly.
 
 Policy
 See GitHub's Safe Harbor Policy
+Added more security information to the SECURITY.md file in the GitHub repository.
